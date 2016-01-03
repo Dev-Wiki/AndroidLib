@@ -25,5 +25,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.squareup.okhttp:okhttp:2.7.0'
     compile project(':devlib')
-    compile files('src/main/libs/butterknife-7.0.1.jar')
 }
